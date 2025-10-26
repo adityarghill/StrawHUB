@@ -1,6 +1,13 @@
-import Message from "./navbar"
-
+import Navigation from "./assets/components/layout/Navbar";
+import Home from "./assets/pages/Home";
+import Category from "./assets/pages/Category";
 
 export default function App() {
-  return <div className="text-3xl text-green-700"><Message/></div>;
+  return (
+    <div>
+      <Navigation />
+      <Home />
+      <Category />
+    </div>
+  );
 }
