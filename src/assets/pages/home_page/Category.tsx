@@ -1,7 +1,7 @@
 import { FaRegHeart } from "react-icons/fa";
 import { HiOutlineArrowCircleRight } from "react-icons/hi";
 import { FaChevronRight } from "react-icons/fa";
-import MiniMap from "./MiniMap";
+import MiniMap from "../home_page/MiniMap";
 
 export default function Category() {
   return (
