@@ -2,8 +2,23 @@ import { FaRegHeart } from "react-icons/fa";
 import { HiOutlineArrowCircleRight } from "react-icons/hi";
 import { FaChevronRight } from "react-icons/fa";
 import MiniMap from "./MiniMap";
+import DataUmkm from "../../data/umkm.json";
+
+interface UmkmItem {
+  id: number;
+  nama_usaha: string;
+  alamat: string;
+  link_maps: string;
+  kategori: string;
+  deskripsi: string;
+  kontak: string;
+}
+
+// ✅ 2. Ambil array "umkm" dari JSON
+const umkmList: UmkmItem[] = (DataUmkm as { umkm: UmkmItem[] }).umkm;
 
 export default function Category() {
+
   return (
     <div className="flex justify-center bg-gray-100 w-full min-h-screen p-4">
       <div className="flex flex-col gap-4 w-full max-w-[1240px]">
@@ -22,6 +37,7 @@ export default function Category() {
           </div>
 
           {/* Carousel Banner */}
+
           <div className="w-[65%] bg-red-600 rounded-2xl drop-shadow-md flex items-center justify-between px-6 h-[250px]">
             <button className="text-white text-3xl hover:scale-110 transition">
               ❮
@@ -49,30 +65,36 @@ export default function Category() {
                   Lainnya <HiOutlineArrowCircleRight className="text-3xl" />
                 </button>
               </div>
+
+              {/* ✅ Menampilkan data dari JSON */}
               <div className="grid grid-cols-2 gap-4 mt-6">
-                <div className="border rounded-xl overflow-hidden relative bg-white drop-shadow-md">
-                  <span className="absolute top-3 left-3 bg-red-600 text-white px-3 py-1 rounded-md text-xs font-bold z-10"></span>
-                  <button className="absolute top-3 right-3 bg-white rounded-full w-14 h-14 flex items-center justify-center shadow-md z-10">
-                    <FaRegHeart className="text-2xl hover:text-red-500 transition-colors duration-200" />
-                  </button>
-                  <img src="" alt="" className="w-full h-48 object-cover" />
-                  <div className="p-4">
-                    <h3 className="font-bold text-base mb-1"></h3>
-                    <p className="text-xs text-gray-600 mb-3"></p>
-                    <div className="flex items-center text-xs mb-3">
-                      <span className="text-yellow-500 mr-1"></span>
-                      <span className="font-semibold"></span>
-                      <span className="text-gray-500 ml-1">( reviews)</span>
-                      <span className="mx-2">•</span>
-                      <span></span>
-                    </div>
-                    <div className="flex gap-3 text-gray-500">
-                      <button className="hover:text-gray-700"></button>
-                      <button className="hover:text-gray-700"></button>
-                      <button className="hover:text-gray-700"></button>
+                {/* ✅ Menampilkan data dari JSON */}
+                {umkmList.map((item) => (
+                  <div
+                    key={item.id}
+                    className="border rounded-xl overflow-hidden relative bg-white drop-shadow-md"
+                  >
+                    <span className="absolute top-3 left-3 bg-red-600 text-white px-3 py-1 rounded-md text-xs font-bold z-10">
+                      {item.kategori}
+                    </span>
+                    <button className="absolute top-3 right-3 bg-white rounded-full w-10 h-10 flex items-center justify-center shadow-md z-10">
+                      <FaRegHeart className="text-xl hover:text-red-500 transition-colors duration-200" />
+                    </button>
+                    <img
+                      src={item.link_maps}
+                      // alt={item.nama}
+                      className="w-full h-48 object-cover"
+                    />
+                    <div className="p-4">
+                      <h3 className="font-bold text-base mb-1">{item.nama_usaha}</h3>
+                      <p className="text-xs text-gray-600 mb-3">{item.alamat}</p>
+                      <div className="flex items-center text-xs mb-3">
+                        <span className="text-yellow-500 mr-1">⭐</span>
+                        {/* <span className="font-semibold">{item.rating}</span> */}
+                      </div>
                     </div>
                   </div>
-                </div>
+                ))}
               </div>
             </div>
           </div>
