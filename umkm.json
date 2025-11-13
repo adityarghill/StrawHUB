@@ -1,0 +1,129 @@
+{
+  "umkm": [
+    {
+      "nama_usaha": "Moagi Laundry Kalibata City",
+      "alamat": "Jl. Raya Kalibata No.60 9, RT.9/RW.4, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750",
+      "link_maps": "https://maps.google.com/?cid=10874279297465824796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Jasa",
+      "deskripsi": "Menyediakan jasa cuci dan setrika pakaian (Laundry) untuk kebutuhan harian, mingguan, atau kiloan. Menargetkan mahasiswa, penghuni apartemen, dan pekerja kantoran di sekitar Kalibata.",
+      "kontak": "0881024448808"
+    },
+    {
+      "nama_usaha": "Sari Tailor",
+      "alamat": "Jl. Kalibata Utara V No.22, RT.13/RW.2, Kalibata, Kec. Pancoran, Kota Jakarta Selatan, DKI Jakarta 12740",
+      "link_maps": "https://maps.google.com/?cid=12670590209165006390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Jasa",
+      "deskripsi": "Menyediakan jasa penjahit (tailor) yang melayani pembuatan dan perbaikan pakaian pria dan wanita. UMKM ini sangat penting untuk kebutuhan mahasiswa dan warga sekitar yang membutuhkan perombakan atau penjahitan seragam/pakaian formal.",
+      "kontak": "089604392252"
+    },
+    {
+      "nama_usaha": "Rizki Florist Kalibata",
+      "alamat": "Jl. Pengadegan Timur I No.7, RT.12/RW.5, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, DKI Jakarta 12770",
+      "link_maps": "https://maps.google.com/?cid=3842462030518603857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Jasa",
+      "deskripsi": "Toko bunga (florist) yang menyediakan jasa rangkaian bunga, buket, dekorasi, dan karangan bunga untuk acara wisuda, pernikahan, atau ucapan duka. UMKM ini sangat relevan untuk kebutuhan kado custom di sekitar kampus.",
+      "kontak": "082299236686"
+    },
+    {
+      "nama_usaha": "Bimbel & Les Privat Prof. Bob",
+      "alamat": "Jalan H.Noor No.16, RT.6/RW.1, Pejaten Barat, Pasar Minggu, RT.12/RW.1, Pejaten Timur, Ps. Minggu, Kota Jakarta Selatan, DKI Jakarta 12510",
+      "link_maps": "https://maps.google.com/?cid=2984432156289162322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Jasa",
+      "deskripsi": "Menyediakan layanan Bimbingan Belajar (Bimbel) dan les privat untuk berbagai tingkat, memberikan dukungan akademik yang intensif bagi siswa yang membutuhkan persiapan ujian atau peningkatan nilai.",
+      "kontak": "087794033400"
+    },
+    {
+      "nama_usaha": "Mutiara Catering & Pastry (Matraman)",
+      "alamat": "Jl. Kh. Ahmad Dahlan No.18A 1, RT.1/RW.9, Kayu Manis, Kec. Matraman, Kota Jakarta Timur, DKI Jakarta 13130",
+      "link_maps": "https://maps.google.com/?cid=4138879991061607618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Jasa",
+      "deskripsi": "Spesialisasi dalam katering dan produk pastry (kue). Menawarkan paket lengkap untuk acara formal maupun informal, seperti kue kering, kue basah, dan hidangan utama. Sangat cocok untuk kebutuhan snack rapat atau coffee break di kampus.",
+      "kontak": "0818202601"
+    },
+    {
+      "nama_usaha": "Nasi Goreng Gila Gondrong Obama - Kalibata",
+      "alamat": "Jl. Raya Kalibata No.20, RT.4/RW.3, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750",
+      "link_maps": "",
+      "jenis_usaha": "Makanan",
+      "deskripsi": "Warung makan yang menyajikan hidangan nasi goreng dengan bumbu khas dan variasi 'gila' (pedas/campur-campur). Salah satu kuliner malam yang cukup terkenal di sekitar Kalibata.",
+      "kontak": ""
+    },
+    {
+      "nama_usaha": "Soto Betawi H. Ma'ruf Cabang Kalibata",
+      "alamat": "Jl. Kalibata Raya No.25, RT.3/RW.3, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750",
+      "link_maps": "",
+      "jenis_usaha": "Makanan",
+      "deskripsi": "Menjual makanan khas Jakarta, yaitu Soto Betawi dengan kuah santan atau bening, dengan pilihan isian daging sapi, jeroan, atau ayam.",
+      "kontak": ""
+    },
+    {
+      "nama_usaha": "Ayam Geprek Sultan - Kalibata",
+      "alamat": "Dekat Pintu Keluar/Masuk Kalibata City Square (Jl. Raya Kalibata, Rawajati, Pancoran, Jakarta Selatan)",
+      "link_maps": "",
+      "jenis_usaha": "Makanan",
+      "deskripsi": "Spesialisasi ayam goreng tepung yang digeprek bersama sambal pedas. Menyediakan berbagai level kepedasan dan varian topping (keju, mozarella, dll.).",
+      "kontak": ""
+    },
+    {
+      "nama_usaha": "Warung Kopi & Indomie Kekinian 'Ngopi Kuy'",
+      "alamat": "Jl. TMP Kalibata No.14, Kalibata, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12740",
+      "link_maps": "",
+      "jenis_usaha": "Makanan",
+      "deskripsi": "Warung/kedai yang menyajikan menu populer seperti Indomie dengan berbagai gimmick (kuah nyemek, topping kornet, dll.) dan aneka minuman kopi kekinian.",
+      "kontak": ""
+    },
+    {
+      "nama_usaha": "Bakso Rudal Kalibata",
+      "alamat": "Pinggir jalan raya dekat Mall Kalibata City",
+      "link_maps": "",
+      "jenis_usaha": "Makanan",
+      "deskripsi": "Menjual bakso urat/rudal dengan kuah kaldu sapi yang gurih. Umumnya juga menyediakan mie ayam sebagai menu tambahan.",
+      "kontak": ""
+    },
+    {
+      "nama_usaha": "Kopi Champ",
+      "alamat": "Tower Gaharu, Apartemen, Kalibata City, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750",
+      "link_maps": "",
+      "jenis_usaha": "Minuman",
+      "deskripsi": "Kedai kopi kecil yang terletak di dalam area Kalibata City. Menyediakan berbagai varian kopi dan minuman non-kopi dengan harga terjangkau, cocok untuk penghuni apartemen yang mencari minuman cepat atau tempat duduk santai. Kopi Champ buka hingga dini hari.",
+      "kontak": "+62 822-4981-0255",
+      "jam_buka": "08.00–23.00 setiap hari"
+    },
+    {
+      "nama_usaha": "Koffiekan Coffee Shop",
+      "alamat": "Apartemen Kalibata City Tower Gaharu GF.CL002 No.01, Jalan Raya Kalibata, Rawajati, Pancoran, RT.9/RW.4, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750",
+      "link_maps": "https://maps.google.com/?cid=9442694160005772456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Minuman",
+      "deskripsi": "Kedai kopi yang menawarkan suasana nyaman dan menu kopi yang beragam. Lokasinya yang berada di lantai dasar Tower Gaharu membuatnya mudah diakses. Cocok untuk work from cafe ringan atau sekadar menikmati kopi di sore hari.",
+      "kontak": "+62 822-4981-0255",
+      "jam_buka": "08.00–23.00 setiap hari"
+    },
+    {
+      "nama_usaha": "Teman Nongkrong",
+      "alamat": "Apartemen Kalibata City Tower Gaharu, Jl. Raya Kalibata Kecamatan No.1 Blok G-AL-02, RT.9/RW.4, Rawajati, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750",
+      "link_maps": "https://maps.google.com/?cid=1315148989378089089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Minuman",
+      "deskripsi": "Tempat ini dirancang untuk menjadi lokasi berkumpul dan bersantai. Meskipun berfokus pada kopi dan minuman, biasanya juga menyediakan makanan ringan. Tempat yang pas untuk menghabiskan waktu luang atau rapat kecil.",
+      "kontak": "+62 811-9691-1702",
+      "jam_buka": "13.00–21.00 setiap hari"
+    },
+    {
+      "nama_usaha": "Phala-wan Cafe",
+      "alamat": "Jl. TMP. Kalibata No.6, RT.6/RW.7, Duren Tiga, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12760",
+      "link_maps": "https://maps.google.com/?cid=16390352176930196272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Minuman",
+      "deskripsi": "Cafe ini menawarkan suasana yang lebih luas dibandingkan kios di dalam apartemen, dan biasanya menyediakan menu minuman yang lebih bervariasi, termasuk teh, jus segar, atau minuman berbasis susu, selain kopi. Tempat yang cocok untuk bersantai sore hari.",
+      "kontak": "+62 811-1251-2000",
+      "jam_buka": "09.00–22.00 (Jumat & Sabtu sampai 23.00)"
+    },
+    {
+      "nama_usaha": "Cerita si Boba",
+      "alamat": "Jl. Warung Jati Timur No.21, Gg. M Jl. Ainul Yaqin No.09, RT.2/RW.9, Kalibata, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12740",
+      "link_maps": "https://maps.google.com/?cid=16977042636537474351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "jenis_usaha": "Minuman",
+      "deskripsi": "UMKM yang fokus pada minuman boba (brown sugar boba milk) dan varian minuman manis lainnya. Gerai ini unik karena beroperasi 24 jam, menjadikannya solusi bagi Anda yang ingin minuman manis kapan saja.",
+      "kontak": "+62 813-9852-1670",
+      "jam_buka": "24 jam setiap hari"
+    }
+  ]
+}

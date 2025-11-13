@@ -2,20 +2,6 @@ import { FaRegHeart } from "react-icons/fa";
 import { HiOutlineArrowCircleRight } from "react-icons/hi";
 import { FaChevronRight } from "react-icons/fa";
 import MiniMap from "./MiniMap";
-import DataUmkm from "../../data/umkm.json";
-
-interface UmkmItem {
-  id: number;
-  nama_usaha: string;
-  alamat: string;
-  link_maps: string;
-  kategori: string;
-  deskripsi: string;
-  kontak: string;
-}
-
-// ✅ 2. Ambil array "umkm" dari JSON
-const umkmList: UmkmItem[] = (DataUmkm as { umkm: UmkmItem[] }).umkm;
 
 export default function Category() {
 
