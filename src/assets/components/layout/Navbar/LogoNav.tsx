@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import logo from "../../images/icon.svg"; // your existing logo path
+import logo from "../../../images/icon.svg"; // your existing logo path
 
 export default function LogoNav() {
   const navigate = useNavigate();
