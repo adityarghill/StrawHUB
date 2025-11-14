@@ -2,7 +2,7 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 export default function Home() {
   return (
-    <div className="flex justify-center items-start w-full bg-white p-4 sm:p-6">
+    <div className="flex justify-center items-start w-full bg-white p-4 sm:p-6 mt-12">
       <div className="flex flex-col lg:flex-row w-full max-w-[1240px] bg-white rounded-2xl shadow-md overflow-hidden p-4 sm:p-5 space-y-6 lg:space-y-0 lg:space-x-6">
 
         {/* Hero section Kiri */}

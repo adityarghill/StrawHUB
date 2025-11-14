@@ -16,7 +16,7 @@ export default function FuturisticNav() {
   ];
 
   return (
-    <div className="fixed left-6 top-1/2 -translate-y-1/2 z-40">
+    <div className="fixed left-6 top-1/2 bottom-1 -translate-y-1/2 z-40">
       <div className="relative flex flex-col items-center justify-around h-[380px] w-[80px] bg-[#AA0202] rounded-[2rem] py-4 px-2 shadow-[0_0_10px_rgba(0,0,0,0.6)] backdrop-blur-lg">
         {icons.map((item, index) => (
           <div

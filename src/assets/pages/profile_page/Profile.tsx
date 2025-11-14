@@ -1,22 +1,18 @@
 import { TrendingUp, BookOpen, Camera } from "lucide-react";
-import SearchBar from "../../components/layout/SearchBar";
 
 export default function Profile() {
   return (
     <div className="min-h-screen p-6 bg-gray-100">
       {/* Welcome Text */}
 
+      <div className="max-w-7xl mx-auto mt-12">
 
-      {/* 🔍 Search Bar */}
-      <SearchBar />
-
-      <h1 className="text-xl font-bold text-red-700 mb-4">
-        Selamat Datang di Dashboard anda !
-      </h1>
-
-      <div className="max-w-7xl mx-auto">
         {/* Top Section */}
+          <h1 className="text-xl font-bold text-red-700 mb-4 md">
+            Selamat Datang di Dashboard anda !
+          </h1>
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 mb-4">
+
           {/* LEFT PROFILE CARD */}
           <div className="lg:col-span-3 bg-red-700 rounded-3xl shadow-lg p-6 flex flex-col items-center justify-center border-2 border-black">
             <div className="relative group w-32 h-32 rounded-full overflow-hidden border-4 border-white cursor-pointer transition-all">
