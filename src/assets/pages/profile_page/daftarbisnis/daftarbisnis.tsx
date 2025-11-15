@@ -287,7 +287,7 @@ export default function PopupDaftarkanBisnis({ open, onClose, onSubmit }: PopupD
 
                     <div>
                       <label className="block text-sm font-medium text-gray-700 mb-1">
-                        Link Google Maps (Opsional)
+                        Link Google Maps
                       </label>
                       <input
                         className={`w-full border ${errors.mapsLink ? 'border-red-500' : 'border-gray-300'} p-3 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-transparent outline-none transition-all`}
@@ -541,7 +541,7 @@ export default function PopupDaftarkanBisnis({ open, onClose, onSubmit }: PopupD
                     onClick={nextStep}
                     className="flex-1 px-6 py-3 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors font-medium"
                   >
-                    Lanjut →
+                    Lanjut 
                   </button>
                 ) : (
                   <button
