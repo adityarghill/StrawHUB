@@ -1,7 +1,6 @@
 import { Outlet, useNavigation, useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
-import LogoNav from "../layout/Navbar/LogoNav";
-import FuturisticNav from "../layout/Navbar/Nav2";
+import DesktopNav from "../layout/Navbar/DesktopNav";
 import MobileNav from "../layout/Navbar/MobileNav";
 import SearchBarTop from "../layout/SearchBar";
 import Loader from "./loader";
@@ -26,10 +25,7 @@ export default function AppLayout() {
     <div className="flex min-h-screen bg-white">
       {/* Desktop Nav */}
       <div className="hidden lg:block">
-        <LogoNav />
-      </div>
-      <div className="hidden lg:block">
-        <FuturisticNav />
+        <DesktopNav />
       </div>
       <div className="hidden lg:block">
         <SearchBarTop />
