@@ -7,6 +7,8 @@ import Catalogue from "../../../assets/pages/catalogue_page/Catalogue";
 import Chat from "../../../assets/pages/chat_page/Chat";
 import Favorites from "../../../assets/pages/favorite_page/Favorites";
 import Settings from "../../../assets/pages/settings_page/Settings";
+import PanduanDetailPage from "../../pages/profile_page/panduan/detail";
+
 
 export const router = createBrowserRouter([
   {
@@ -19,6 +21,9 @@ export const router = createBrowserRouter([
       { path: "chat", element: <Chat /> },
       { path: "favorites", element: <Favorites /> },
       { path: "settings", element: <Settings /> },
+      { path: "detail/:id", element: <PanduanDetailPage /> },
+      
+      
     ],
   },
 ]);
