@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Heart, MapPin } from 'lucide-react';
 import { useSearchParams } from 'react-router-dom';
-import umkmData from '../../umkm.json';
+import umkmData from '../../../data/umkm.json';
 import Popup from './Popup';
 
 interface UMKM {

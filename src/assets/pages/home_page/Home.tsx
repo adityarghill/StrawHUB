@@ -1,6 +1,6 @@
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import { User } from "lucide-react";
-import umkm from "../../umkm.json";
+import umkm from "../../../data/umkm.json";
 import React, { useState, useEffect } from "react";
 
 export default function Home() {

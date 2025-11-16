@@ -3,7 +3,7 @@ import { HiOutlineArrowCircleRight } from "react-icons/hi";
 import { User } from "lucide-react";
 import MiniMap from "./MiniMap";
 import { useNavigate } from "react-router-dom";
-import umkm from "../../umkm.json";
+import umkm from "../../../data/umkm.json";
 
 export default function Category() {
   // Fungsi untuk menghasilkan jarak dan waktu acak

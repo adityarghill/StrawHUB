@@ -1,7 +1,7 @@
 import { useMemo } from "react";
 import { Mail } from "lucide-react";
 import ContactItem from "./Contact";
-import umkmData from "../../umkm.json";
+import umkmData from "../../../data/umkm.json";
 
 export default function LeftSidebar({
   selectedContact,

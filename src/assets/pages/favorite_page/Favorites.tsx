@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Search, Heart } from "lucide-react";
-import businessesData from "../../umkm.json";
+import businessesData from "../../../data/umkm.json";
 
 interface Business {
   Id?: number;
