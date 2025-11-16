@@ -10,7 +10,6 @@
     "kontak": "087897158476",
     "jam_buka": "Buka 24 Jam - Setiap Hari",
     "akun_strawhub": "@warteg_warmo",
-<<<<<<< HEAD
     "username": "warteg_warmo",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id1/tumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id1/1.jpg",
@@ -22,9 +21,6 @@
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id1/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id1/8.jpg",
     "img9": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id1/9.jpg"
-=======
-    "username": "warteg_warmo"
->>>>>>> origin/dito
   },
   {
     "Id": 2,
@@ -37,7 +33,6 @@
     "kontak": "081213445167",
     "jam_buka": "Buka Setiap hari s.d jam 20.00",
     "akun_strawhub": "@mieayamyunus",
-<<<<<<< HEAD
     "username": "mieayamyunus",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id2/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id2/1.jpg",
@@ -48,9 +43,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id2/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id2/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id2/8.jpg"
-=======
-    "username": "mieayamyunus"
->>>>>>> origin/dito
   },
   {
     "Id": 3,
@@ -63,7 +55,6 @@
     "kontak": "http://satetaichangoreng.com/",
     "jam_buka": "Buka setiap hari mulai dari jam 10.00",
     "akun_strawhub": "@satetaichangoreng",
-<<<<<<< HEAD
     "username": "satetaichangoreng",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id3/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id3/1.jpg",
@@ -72,9 +63,6 @@
     "img4": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id3/4.jpg",
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id3/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id3/6.jpg"
-=======
-    "username": "satetaichangoreng"
->>>>>>> origin/dito
   },
   {
     "Id": 4,
@@ -87,7 +75,6 @@
     "kontak": "08118116468",
     "jam_buka": "Senin,09.00-00.00, Setiap hari 24 jam",
     "akun_strawhub": "@bebekkaleyo",
-<<<<<<< HEAD
     "username": "bebekkaleyo",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id4/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id4/1.jpg",
@@ -98,9 +85,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id4/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id4/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id4/8.jpg"
-=======
-    "username": "bebekkaleyo"
->>>>>>> origin/dito
   },
   {
     "Id": 5,
@@ -113,7 +97,6 @@
     "kontak": "085697858187",
     "jam_buka": "Buka Setiap hari,jam 08.00",
     "akun_strawhub": "@gudegjogjambakanung",
-<<<<<<< HEAD
     "username": "gudegjogjambakanung",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id5/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id5/1.jpg",
@@ -125,13 +108,6 @@
   {
     "Id": 6,
     "nama_usaha": "Nasi Goreng Kambing",
-=======
-    "username": "gudegjogjambakanung"
-  },
-  {
-    "Id": 6,
-    "nama_usaha": "Nasi Goreng Kambing Kebon Sirih Pasar Minggu",
->>>>>>> origin/dito
     "pemilik": "PT. Nasi Goreng Kambing Kebon Sirih (Cabang)",
     "alamat": "Jl. KH. Guru Amin Id.22, RT.12/RW.1, Pejaten Timur, Ps. Minggu, Jakarta, Daerah Khusus Ibukota Jakarta 12510",
     "link_google_maps": "https://maps.app.goo.gl/2SoHTmoe8HXdbDK86",
@@ -139,7 +115,6 @@
     "deskripsi": "Menyajikan Nasi Goreng Kambing dengan bumbu khas rempah yang kuat dan aroma kambing yang taJam Dimasak dalam porsi besar menggunakan arang.",
     "kontak": "088291833786",
     "jam_buka": "Buka setiap hari, Jam 10.00",
-<<<<<<< HEAD
     "akun_strawhub": "@nasigorengkambing",
     "username": "nasigorengkambing",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id6/tumbnail.jpg",
@@ -149,10 +124,6 @@
     "img4": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id6/4.png",
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id6/5.png",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id6/6.jpg"
-=======
-    "akun_strawhub": "@nasigorengkambingkebonsirih",
-    "username": "nasigorengkambingkebonsirih"
->>>>>>> origin/dito
   },
   {
     "Id": 7,
@@ -165,7 +136,6 @@
     "kontak": "0816700778",
     "jam_buka": "Buka setiap hari, Jam 09.00",
     "akun_strawhub": "@ayamgepukpakgembus",
-<<<<<<< HEAD
     "username": "ayamgepukpakgembus",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id7/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id7/1.jpg",
@@ -175,9 +145,6 @@
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id7/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id7/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id7/7.jpg"
-=======
-    "username": "ayamgepukpakgembus"
->>>>>>> origin/dito
   },
   {
     "Id": 8,
@@ -190,7 +157,6 @@
     "kontak": "0215346768",
     "jam_buka": "Buka setiap hari, Jam 09.00",
     "akun_strawhub": "@sopbuntutibu",
-<<<<<<< HEAD
     "username": "sopbuntutibu",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id8/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id8/1.jpg",
@@ -200,9 +166,6 @@
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id8/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id8/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id8/7.jpg"
-=======
-    "username": "sopbuntutibu"
->>>>>>> origin/dito
   },
   {
     "Id": 9,
@@ -215,7 +178,6 @@
     "kontak": "081297981414",
     "jam_buka": "Buka setiap hari, Jam 10.00",
     "akun_strawhub": "@sateh_giyo",
-<<<<<<< HEAD
     "username": "sateh_giyo",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id9/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id9/1.jpg",
@@ -226,9 +188,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id9/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id9/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id9/8.jpg"
-=======
-    "username": "sateh_giyo"
->>>>>>> origin/dito
   },
   {
     "Id": 10,
@@ -241,7 +200,6 @@
     "kontak": "081381405335",
     "jam_buka": "Buka setiap hari, Jam 08.00 (Minggu 07.00)",
     "akun_strawhub": "@sotoayam_himam",
-<<<<<<< HEAD
     "username": "sotoayam_himam",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id10/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id10/1.jpg",
@@ -253,9 +211,6 @@
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id10/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id10/8.jpg",
     "img9": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id10/9.jpg"
-=======
-    "username": "sotoayam_himam"
->>>>>>> origin/dito
   },
   {
     "Id": 11,
@@ -268,7 +223,6 @@
     "kontak": "08159707112",
     "jam_buka": "Buka setiap hari, Jam 10.00",
     "akun_strawhub": "@ragusaesitalia",
-<<<<<<< HEAD
     "username": "ragusaesitalia",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id11/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id11/1.jpg",
@@ -280,9 +234,6 @@
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id11/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id11/8.jpg",
     "img9": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id11/9.jpg"
-=======
-    "username": "ragusaesitalia"
->>>>>>> origin/dito
   },
   {
     "Id": 12,
@@ -295,7 +246,6 @@
     "kontak": "http://tuku.coffee/",
     "jam_buka": "Buka setiap hari, Jam 07.00",
     "akun_strawhub": "@tukukopi",
-<<<<<<< HEAD
     "username": "tukukopi",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id12/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id12/1.jpg",
@@ -308,9 +258,6 @@
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id12/8.jpg",
     "img9": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id12/9.jpg",
     "img10": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id12/10.jpg"
-=======
-    "username": "tukukopi"
->>>>>>> origin/dito
   },
   {
     "Id": 13,
@@ -323,7 +270,6 @@
     "kontak": "082180006183",
     "jam_buka": "Buka setiap hari, Jam 08.00",
     "akun_strawhub": "@kopicalftogo",
-<<<<<<< HEAD
     "username": "kopicalftogo",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id13/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id13/1.jpg",
@@ -338,13 +284,6 @@
   {
     "Id": 14,
     "nama_usaha": "Juragan Es Cendol Bandung",
-=======
-    "username": "kopicalftogo"
-  },
-  {
-    "Id": 14,
-    "nama_usaha": "Juragan Es Cendol Bandung - Siaga Raya",
->>>>>>> origin/dito
     "pemilik": "UMKM/Perorangan (Warung Kaki Lima)",
     "alamat": "Jl. Warga I MA Id.18, RT.5/RW.3, Pejaten Bar., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510",
     "link_google_maps": "https://maps.app.goo.gl/pyFdDb7bKCK7sdEK9",
@@ -353,7 +292,6 @@
     "kontak": "Tidak ada kontak",
     "jam_buka": "Buka setiap hari, Jam 09.00",
     "akun_strawhub": "@juraganes_cendol",
-<<<<<<< HEAD
     "username": "juraganes_cendol",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id14/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id14/1.jpg",
@@ -362,9 +300,6 @@
     "img4": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id14/4.jpg",
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id14/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id14/6.jpg"
-=======
-    "username": "juraganes_cendol"
->>>>>>> origin/dito
   },
   {
     "Id": 15,
@@ -377,7 +312,6 @@
     "kontak": "Tidak ada kontak",
     "jam_buka": "Buka setiap hari, Jam 08.00",
     "akun_strawhub": "@lainhatikopi",
-<<<<<<< HEAD
     "username": "lainhatikopi",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id15/thumbnail.jpeg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id15/1.jpg",
@@ -388,9 +322,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id15/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id15/7.jpeg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id15/8.jpg"
-=======
-    "username": "lainhatikopi"
->>>>>>> origin/dito
   },
   {
     "Id": 16,
@@ -403,7 +334,6 @@
     "kontak": "087830930944",
     "jam_buka": "Buka setiap hari, Jam 18.00",
     "akun_strawhub": "@tehtarikbangugay",
-<<<<<<< HEAD
     "username": "tehtarikbangugay",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id16/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id16/1.jpg",
@@ -413,9 +343,6 @@
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id16/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id16/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id16/7.jpg"
-=======
-    "username": "tehtarikbangugay"
->>>>>>> origin/dito
   },
   {
     "id": 17,
@@ -427,7 +354,6 @@
     "kontak": "0881024448808",
     "jam_buka": "Buka setiap hari, Jam 01.00",
     "akun_strawhub": "@moagilaundry",
-<<<<<<< HEAD
     "username": "moagilaundry",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id17/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id17/1.jpg",
@@ -438,9 +364,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id17/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id17/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id17/8.jpg"
-=======
-    "username": "moagilaundry"
->>>>>>> origin/dito
   },
   {
     "id": 18,
@@ -452,7 +375,6 @@
     "kontak": "089604392252",
     "jam_buka": "Buka Senin-Sabtu, Jam 07.00",
     "akun_strawhub": "@saritailor",
-<<<<<<< HEAD
     "username": "saritailor",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id18/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id18/1.jpg",
@@ -463,9 +385,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id18/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id18/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id18/8.jpg"
-=======
-    "username": "saritailor"
->>>>>>> origin/dito
   },
   {
     "id": 19,
@@ -477,16 +396,12 @@
     "kontak": "082299236686",
     "jam_buka": "Buka setiap hari, Jam 06.00",
     "akun_strawhub": "@rizkifloristkalibata",
-<<<<<<< HEAD
     "username": "rizkifloristkalibata",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id19/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id19/1.jpg",
     "img2": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id19/2.jpg",
     "img3": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id19/3.jpg",
     "img4": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id19/4.png"
-=======
-    "username": "rizkifloristkalibata"
->>>>>>> origin/dito
   },
   {
     "id": 20,
@@ -498,7 +413,6 @@
     "kontak": "087794033400",
     "jam_buka": "Buka Senin-sabtu, Jam 11.00",
     "akun_strawhub": "@bimbelprofbob",
-<<<<<<< HEAD
     "username": "bimbelprofbob",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id20/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id20/1.jpg",
@@ -508,9 +422,6 @@
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id20/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id20/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id20/7.jpg"
-=======
-    "username": "bimbelprofbob"
->>>>>>> origin/dito
   },
   {
     "id": 21,
@@ -522,7 +433,6 @@
     "kontak": "0818202601",
     "jam_buka": "Buka setiap hari, Jam 06.00",
     "akun_strawhub": "@mutiaracateringpastry",
-<<<<<<< HEAD
     "username": "mutiaracateringpastry",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id21/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id21/1.jpg",
@@ -534,29 +444,17 @@
   {
     "id": 22,
     "nama_usaha": "Nasi Goreng Gila Gondrong Obama",
-=======
-    "username": "mutiaracateringpastry"
-  },
-  {
-    "id": 22,
-    "nama_usaha": "Nasi Goreng Gila Gondrong Obama - Pejaten",
->>>>>>> origin/dito
     "alamat": "RT.5/RW.4, Pejaten Bar., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510",
     "link_maps": "https://maps.app.goo.gl/oYbdo5wCcAFoKeWt5",
     "kategori": "Makanan",
     "deskripsi": "Warung makan yang menyajikan hidangan nasi goreng dengan bumbu khas dan variasi 'gila' (pedas/campur-campur). Salah satu kuliner malam yang cukup terkenal di sekitar Kalibata.",
     "kontak": "Tidak ada kontak",
     "jam_buka": "Buka setiap hari, Jam 15.30 (Kamis Tutup)",
-<<<<<<< HEAD
     "akun_strawhub": "@nasigorenggilaobama",
     "username": "nasigorenggilagobama",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id22/tumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id22/3.jpg",
     "img2": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id22/2.jpg"
-=======
-    "akun_strawhub": "@nasigorenggilagondrongobama",
-    "username": "nasigorenggilagondrongobama"
->>>>>>> origin/dito
   },
   {
     "id": 23,
@@ -568,7 +466,6 @@
     "kontak": "https://www.strawhub.com/sotohmaruf/",
     "jam_buka": "Buka setiap hari, Jam 09.00",
     "akun_strawhub": "@sotobetawehmaruf",
-<<<<<<< HEAD
     "username": "sotobetawehmaruf",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id23/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id23/1.jpg",
@@ -579,9 +476,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id23/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id23/7.jpg"
 
-=======
-    "username": "sotobetawehmaruf"
->>>>>>> origin/dito
   },
   {
     "id": 24,
@@ -593,7 +487,6 @@
     "kontak": "0895385302008",
     "jam_buka": "Buka setiap hari, Jam 17.00",
     "akun_strawhub": "@kebulisultankalibata",
-<<<<<<< HEAD
     "username": "kebulisultankalibata",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id24/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id24/1.jpg",
@@ -606,9 +499,6 @@
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id24/8.jpg",
     "img9": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id24/9.jpg"
     
-=======
-    "username": "kebulisultankalibata"
->>>>>>> origin/dito
   },
   {
     "id": 25,
@@ -620,7 +510,6 @@
     "kontak": "085860687085",
     "jam_buka": "Buka setiap hari, Jam 10.00",
     "akun_strawhub": "@warungmakanindomiekopi",
-<<<<<<< HEAD
     "username": "warungmakanindomiekopi",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id25/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id25/1.jpg",
@@ -633,9 +522,6 @@
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id25/8.jpg",
     "img9": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id25/9.jpg"
 
-=======
-    "username": "warungmakanindomiekopi"
->>>>>>> origin/dito
   },
   {
     "id": 26,
@@ -647,7 +533,6 @@
     "kontak": "087888131788",
     "jam_buka": "Buka setiap hari, Jam 10.00 (Jumat tutup)",
     "akun_strawhub": "@baksorudalwonogiri",
-<<<<<<< HEAD
     "username": "baksorudalwonogiri",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id26/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id26/1.jpg",
@@ -657,9 +542,6 @@
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id26/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id26/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id26/7.jpg"
-=======
-    "username": "baksorudalwonogiri"
->>>>>>> origin/dito
   },
   {
     "id": 27,
@@ -671,7 +553,6 @@
     "kontak": "+62 822-4981-0255",
     "jam_buka": "Buka setiap hari, Jam 08.00",
     "akun_strawhub": "@kopichamp",
-<<<<<<< HEAD
     "username": "kopichamp",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id27/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id27/1.jpg",
@@ -682,9 +563,6 @@
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id27/6.jpg",
     "img7": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id27/7.jpg",
     "img8": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id27/8.jpg"
-=======
-    "username": "kopichamp"
->>>>>>> origin/dito
   },
   {
     "id": 28,
@@ -696,7 +574,6 @@
     "kontak": "+62 822-4981-0255",
     "jam_buka": "Buka setiap hari, Jam 08.00",
     "akun_strawhub": "@koffiekan",
-<<<<<<< HEAD
     "username": "koffiekan",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id28/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id28/1.jpg",
@@ -710,9 +587,6 @@
     "img9": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id28/9.jpg",
     "img10": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id28/10.jpg",
     "img11": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id28/11.jpg"
-=======
-    "username": "koffiekan"
->>>>>>> origin/dito
   },
   {
     "id": 29,
@@ -724,7 +598,6 @@
     "kontak": "+62 811-9691-1702",
     "jam_buka": "Buka setiap hari, Jam 13.00",
     "akun_strawhub": "@temannongkrongkalibata",
-<<<<<<< HEAD
     "username": "temannongkrongkalibata",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id29/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id29/1.jpg",
@@ -733,9 +606,6 @@
     "img4": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id29/4.jpg",
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id29/5.jpg",
     "img6": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id29/6.jpg"
-=======
-    "username": "temannongkrongkalibata"
->>>>>>> origin/dito
   },
   {
     "id": 30,
@@ -747,7 +617,6 @@
     "kontak": "+62 811-1251-2000",
     "jam_buka": "Buka setiap hari, Jam 08.00(Jumat & Sabtu sampai 23.00)",
     "akun_strawhub": "@phalawancafe",
-<<<<<<< HEAD
     "username": "phalawancafe",
     "img_tumb": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id30/thumbnail.jpg",
     "img1": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id30/1.jpeg",
@@ -755,20 +624,5 @@
     "img3": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id30/2.jpg",
     "img4": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id30/3.jpg",
     "img5": "https://spuuqcywkfibfwdinnws.supabase.co/storage/v1/object/public/umkm_image/id30/4.jpg"
-=======
-    "username": "phalawancafe"
-  },
-  {
-    "id": 31,
-    "nama_usaha": "Cerita si Boba",
-    "alamat": "Jl. Warung Jati Timur No.21, Gg. M Jl. Ainul Yaqin No.09, RT.2/RW.9, Kalibata, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12740",
-    "link_maps": "https://maps.google.com/?cid=16977042636537474351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
-    "kategori": "Minuman",
-    "deskripsi": "UMKM yang fokus pada minuman boba (brown sugar boba milk) dan varian minuman manis lainnya. Gerai ini unik karena beroperasi 24 jam, menjadikannya solusi bagi Anda yang ingin minuman manis kapan saja.",
-    "kontak": "+62 813-9852-1670",
-    "jam_buka": "24 jam setiap hari",
-    "akun_strawhub": "@ceritasiboba",
-    "username": "ceritasiboba"
->>>>>>> origin/dito
   }
 ]
