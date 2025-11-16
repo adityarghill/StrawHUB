@@ -97,7 +97,7 @@ export default function Home() {
             <FaChevronRight className="text-black/70 text-xs sm:" />
           </button>
 
-          {/* Carousel dots */}
+          {/* Carousel dots*/}
           <div className="absolute bottom-3 left-1/2 -translate-x-1/2 flex space-x-2">
             {umkm.slice(0, 3).map((_, index) => (
               <span
