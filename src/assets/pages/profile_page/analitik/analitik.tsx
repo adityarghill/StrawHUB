@@ -35,7 +35,7 @@ export default function AnalyticsPopup({ open, onClose }: AnalyticsPopupProps) {
     <AnimatePresence>
       {open && (
         <motion.div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm p-2 md:p-4 overflow-auto"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-none p-2 md:p-4 overflow-auto"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}

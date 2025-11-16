@@ -8,6 +8,7 @@ import Chat from "../../../assets/pages/chat_page/Chat";
 import Favorites from "../../../assets/pages/favorite_page/Favorites";
 import Settings from "../../../assets/pages/settings_page/Settings";
 import PanduanDetailPage from "../../pages/profile_page/panduan/detail";
+import Category from "../../pages/home_page/Category";
 
 
 export const router = createBrowserRouter([
@@ -15,7 +16,16 @@ export const router = createBrowserRouter([
     path: "/",
     element: <AppLayout />, // wrapper yg mengandung loader + navbar + outlet
     children: [
-      { index: true, element: <Home /> },
+      {
+  index: true,
+  element: (
+    <>
+      <Home />
+      <Category />
+    </>
+  ),
+},
+
       { path: "profile", element: <Profile /> },
       { path: "catalogue", element: <Catalogue /> },
       { path: "chat", element: <Chat /> },

@@ -20,7 +20,7 @@ export default function PopupChangeProfile({
         <>
           {/* Backdrop */}
           <motion.div
-            className="fixed inset-0 bg-black/40 backdrop-blur-sm z-[9998]"
+            className="fixed inset-0 bg-black/40 backdrop-blur-none z-[9998]"
             onClick={onClose}
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}

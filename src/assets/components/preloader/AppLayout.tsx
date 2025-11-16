@@ -11,14 +11,17 @@ export default function AppLayout() {
 
   const [showLoader, setShowLoader] = useState(true);
 
+  // HIDE SEARCH BAR WHEN IN /chat
+const hideSearchBar = location.pathname === "/chat" || location.pathname === "/settings" || location.pathname === "/favorites";
+  
+
   // Loader muncul setiap ganti URL
   useEffect(() => {
     setShowLoader(true);
-    const timer = setTimeout(() => setShowLoader(false), 800); // lama animasi
+    const timer = setTimeout(() => setShowLoader(false), 800);
     return () => clearTimeout(timer);
   }, [location.pathname]);
 
-  // Jika navigate sedang loading, tampilkan juga
   const isNavigating = navigation.state === "loading";
 
   return (
@@ -27,9 +30,13 @@ export default function AppLayout() {
       <div className="hidden lg:block">
         <DesktopNav />
       </div>
-      <div className="hidden lg:block">
-        <SearchBarTop />
-      </div>
+
+      {/* Hide or show Search Bar */}
+      {!hideSearchBar && (
+        <div className="hidden lg:block">
+          <SearchBarTop />
+        </div>
+      )}
 
       {/* Content */}
       <div className="flex-1 ml-0 lg:ml-[120px] relative">

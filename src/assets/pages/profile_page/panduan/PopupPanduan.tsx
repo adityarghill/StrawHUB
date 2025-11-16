@@ -17,7 +17,7 @@ export default function PopupPanduan({ open, onClose }: PopupPanduanProps) {
     <AnimatePresence>
       {open && (
         <motion.div
-          className="fixed inset-0 bg-black/40 backdrop-blur-sm flex justify-center items-end md:items-center z-[9999]"
+          className="fixed inset-0 bg-black/40 backdrop-blur-none flex justify-center items-end md:items-center z-[9999]"
           onClick={onClose}
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}

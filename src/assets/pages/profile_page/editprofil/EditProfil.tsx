@@ -21,7 +21,7 @@ export default function PopupEditProfile({
     <AnimatePresence>
       {open && (
         <motion.div
-          className="fixed inset-0 z-[9999] flex items-end md:items-center justify-center bg-black/40 backdrop-blur-sm p-4"
+          className="fixed inset-0 z-[9999] flex items-end md:items-center justify-center bg-black/40 backdrop-blur-none p-4"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
@@ -37,7 +37,7 @@ export default function PopupEditProfile({
               damping: 15,
               mass: 0.5,
             }}
-            className="bg-white rounded-t-2xl md:rounded-2xl w-full max-w-sm p-6 shadow-xl"
+            className="bg-white rounded-t-2xl md:rounded-2xl w-full max-w-sm p-6"
           >
             <h3 className="text-lg font-bold mb-4 text-center">Edit Profil</h3>
 

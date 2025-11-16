@@ -62,7 +62,7 @@ export default function Card({
       }}
     >
       {/* Title Header */}
-      <div className="bg-white/75 backdrop-blur-sm px-3 py-2 text-sm font-semibold">
+      <div className="bg-white/75 backdrop-blur-none px-3 py-2 text-sm font-semibold">
         {title}
       </div>
 
